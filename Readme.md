@@ -1,4 +1,4 @@
-# Azure metoring program
+# Azure mentoring program - Reto 1
 
 ### Diseñar los landing Zones de Contoso:
 
