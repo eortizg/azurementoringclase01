@@ -7,7 +7,7 @@ resource "azurerm_resource_group" "test" {
   location = "East US"
   tags = {
     Ambiente = "Desarrollo"
-  }
+  } 
 }
 resource "azurerm_storage_account" "stgid" {
   name                     = "stgjoyapuazure"
