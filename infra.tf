@@ -3,7 +3,7 @@ provider "azurerm" {
   features {}
 }
 resource "azurerm_resource_group" "test" {
-  name     = "RGAzureDemo"
+  name     = "RGAzureDemoErick"
   location = "East US"
   tags = {
     Ambiente = "Desarrollo"
